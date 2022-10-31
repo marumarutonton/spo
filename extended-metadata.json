@@ -2,7 +2,7 @@
     "verification":"verification-string-here-for-pool-claim",
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/cexplorer.io/main/examples/meta.json",
     "info": {
-        "url_png_icon_64x64": "https://bit.ly/3fnFOZJ",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/marumarutonton/spo/main/Maruton_icon_64×64.png",
         "url_png_logo": "http(s) url to pool logo; png format; not animated; max 50kb",
         "location": "Tokyo, Japan",
         "social": {
@@ -16,14 +16,6 @@
             "patreon_handle": "",
             "linkedin_handle": "",
             "ada_handle": "$maruton"
-        },
-        "company": {
-            "name": "",
-            "addr": "",
-            "city": "",
-            "country": "",
-            "company_id": "",
-            "vat_id": ""
         },
         "about": {
             "me": "maruton",
