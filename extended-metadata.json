@@ -1,0 +1,34 @@
+{
+    "verification":"verification-string-here-for-pool-claim",
+    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/cexplorer.io/main/examples/meta.json",
+    "info": {
+        "url_png_icon_64x64": "https://bit.ly/3fnFOZJ",
+        "url_png_logo": "http(s) url to pool logo; png format; not animated; max 50kb",
+        "location": "Tokyo, Japan",
+        "social": {
+            "twitter_handle": "marumarutonton",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "maruton#8098",
+            "github_handle": "",
+            "patreon_handle": "",
+            "linkedin_handle": "",
+            "ada_handle": "$maruton"
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "maruton",
+            "server": "High-speed optical line and 2 dedicated servers at home are in operation 24/7.",
+            "company": ""
+        }
+    }
+}
