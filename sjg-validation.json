@@ -1,0 +1,8 @@
+{
+"name":"maruton",
+"ticker":"MARU",
+"discordId":"maruton#8098",
+"pool-list":"true",
+"poolMetaData":"https://raw.githubusercontent.com/marumarutonton/spo/main/poolMetaData.json",
+"validation":"https://raw.githubusercontent.com/marumarutonton/spo/main/sjg-validation.json"
+}
