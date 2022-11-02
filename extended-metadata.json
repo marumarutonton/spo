@@ -3,7 +3,6 @@
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/cexplorer.io/main/examples/meta.json",
     "info": {
         "url_png_icon_64x64": "https://raw.githubusercontent.com/marumarutonton/spo/main/Maruton_icon_64x64.png",
-        "url_png_logo": "http(s) url to pool logo; png format; not animated; max 50kb",
         "location": "Tokyo, Japan",
         "social": {
             "twitter_handle": "marumarutonton",
